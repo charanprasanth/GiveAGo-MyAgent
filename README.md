@@ -16,7 +16,7 @@ my_agent/
 1. Clone the repository:
 ```bash
 git clone <repository-url>
-cd GiveAGo
+cd GiveAGo-MyAgent
 ```
 
 2. Create and activate a virtual environment:
